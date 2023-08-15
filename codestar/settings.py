@@ -36,7 +36,6 @@ ALLOWED_HOSTS = [
     '8000-iweinacker-django-blog-e5r2dd9pel.us2.codeanyapp.com', 'django-blog-iwp-d58ad0e47cc8.herokuapp.com', 'localhost']
 
 
-
 # Application definition
 
 INSTALLED_APPS = [
